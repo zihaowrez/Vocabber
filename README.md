@@ -14,7 +14,7 @@ You can delete word lists that you do not want to keep (such as sample data).
 
 ### 3. Enter new words ("Enter new words")
 
-Here you can enter new words, and you can enter up to 4 definitions for a word. In the "Category" column, each definition can be classified (optional or unclassified). We recommend classifying according to parts of speech (nouns, verbs, adjectives…).
+Here you can enter new words, and you can enter up to 4 definitions for a word. Optionally, each definition can be classified using the "Category" column. We recommend classifying according to parts of speech (nouns, verbs, adjectives…).
 
 If you want to add a new definition to an existing word, just enter the new definition once, and the program will integrate it into the original definition (but the total number does not exceed 4).
 
