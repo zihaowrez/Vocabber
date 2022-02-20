@@ -1,5 +1,7 @@
 # User Guide
 
+You can run the program by downloading `Vocabber.zip`, unzipping it, and double-clicking `Vocabber.py`.
+
 Welcome to Vocabber! This small program aims to help language learners memorize new words. Vocabber supports most languages in the world (utf-16 character set). In addition, Vocabber does not support the Internet, so there is no need to use the Internet, and users need to input new words by themselves.
 
 ## Functionalities
