@@ -32,9 +32,9 @@ After entering, select a scope ("scope") for the word quiz. On the left you can 
 
 The scope of "Recent inputs" is the most recently entered vocabulary (default is 5 days, which can be modified in Settings).
 
-Familiarity is 1 when entering new words. Familiarity +1 for each correct one, halved (rounded down) for each wrong one. All words with familiarity below a certain value (default 4, can be modified in Settings) belong to "Unfamiliar words".
+When you enter a new word, its familiarity is 1. Each time you answer correctly in the quiz, the word's familarity will increase by 1. Each wrong answer will half the word's familarity. All words with a familiarity below a certain value (default is 4, can be modified in Settings) belong to "Unfamiliar words".
 
-After starting the quiz, click the star to the right of a word to mark the word. They will be classified as "Marked words".
+After starting the quiz, you can click the star to the right of a word to mark the word. They will be classified as "Marked words".
 Words that you answer incorrectly will be stored in the "Mistakes collection".
 
 ### 5. "Word list"
