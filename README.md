@@ -1,3 +1,9 @@
+# Interface Screenshots
+
+<img width="474" alt="vocabber_1" src="https://user-images.githubusercontent.com/67496158/157855860-ef7b59b9-c714-4f52-be56-f98a60ebd643.png">
+<img width="473" alt="vocabber_2" src="https://user-images.githubusercontent.com/67496158/157855879-3508e9e6-09a1-47c7-a654-0a1df921c35b.png">
+
+
 # User Guide
 
 You can run the program by downloading `Vocabber.zip`, unzipping it, and running `Vocabber.py` with Python.
